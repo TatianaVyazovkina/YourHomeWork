@@ -9,4 +9,5 @@
 
   ссылка на мой GITHUB
   https://github.com/TatianaVyazovkina/HomeWork.git
-  
+
+Инструкция по работе с GIT находится в файле (GitInstruc.md) 
